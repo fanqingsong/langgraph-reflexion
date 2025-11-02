@@ -1,0 +1,21 @@
+# Core dependencies
+langgraph
+langchain>=0.1.0
+langchain-openai>=0.1.0
+langchain-community>=0.1.0
+langchain-core>=0.3.19
+python-dotenv>=1.0.0
+
+# LangGraph CLI for dev server
+langgraph-cli[inmem]>=0.1.0
+
+# Graph visualization
+grandalf
+
+# Development tools (optional)
+# black
+# isort
+
+# Local package (will be installed in editable mode)
+-e .
+

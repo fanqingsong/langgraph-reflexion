@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "reflexion_app": "./examples/basic_example.py:graph"
+  },
+  "env": ".env"
+}
+
